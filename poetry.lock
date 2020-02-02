@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "Screen-scraping library"
+name = "beautifulsoup"
+optional = false
+python-versions = "*"
+version = "3.2.2"
+
+[metadata]
+content-hash = "75eb66951448a35dbdf1e47dece502e373a632b7661e656933db705f8d9f95be"
+python-versions = "^3.7"
+
+[metadata.hashes]
+beautifulsoup = ["a04169602bff6e3138b1259dbbf491f5a27f9499dea9a8fbafd48843f9d89970", "d31413d71f6ca027ff6b06c891b62ee8ff48267ccd969f881d810e5d1fe49565"]
